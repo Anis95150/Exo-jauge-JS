@@ -1,0 +1,31 @@
+.title{
+	text-align: center;
+	color: gold;
+}
+
+#my_range{
+	width: 100%;
+}
+
+#jauge_1{
+	border: 1px solid #898989;
+	height: 49px;
+	width: 100%;
+	border-radius: 5px;
+
+}
+
+#bg{
+
+	box-shadow: inset 1px 1.4em #00e676;
+	
+}
+.wrap{
+	max-width: 30%;
+}
+
+#unite{
+	position: absolute;
+	top: 198px;
+	left:15%;
+}
